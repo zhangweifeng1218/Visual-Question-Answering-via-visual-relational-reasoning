@@ -1,7 +1,7 @@
 ## Introduction
 This repository is the implementation of ["Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-Modal Retrieval"](https://ieeexplore.ieee.org/document/8988148)(IEEE Transactions on Multimedia, 2020)
 
-[Model overview](https://github.com/zhangweifeng1218/Visual-Question-Answering-via-visual-relational-reasoning/edit/master/model.png)
+[Model overview](https://github.com/zhangweifeng1218/Visual-Question-Answering-via-visual-relational-reasoning/blob/master/model.png)
 
 ## Prerequisites
 You may need a machine with GPUs (>=20GB memory), with PyTorch v1.0 for Python 3
